@@ -44,7 +44,7 @@ body {
 .item::after {
   content: "";
   position: absolute;
-  width: 30px;
+  width: 35px;
   height: 100%;
   right: calc(var(--index) * -1);
 }
